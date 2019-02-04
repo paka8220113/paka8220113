@@ -6,7 +6,7 @@ body {
     background-color: #6495ed;
 }
 </style>
-</head
+
 
 <body>
 <h1>ประวัติส่วนตัว</h1>
