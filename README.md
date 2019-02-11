@@ -1,14 +1,30 @@
 <html>
 <head>
-<title>ภัคพงษ์</title>
+<link rel="stylesheet"
+href="https://fonts.googleapis.com/css?family=Pattaya"
+ rel="stylesheet">
+
 <style>
-body {
-    background-color: #6495ed;
+body{
+font-family: 'Pattaya', serif;
+font-size: 48px;
+color:black;
 }
 </style>
-
-
+</head>
 <body>
+
+<body
+ {
+font-family: 'Pattaya', serif;
+font-size: 48px;
+ิbackground=color:black;
+text-shadow: 4px 4px 4px #FFFF99;
+}
+</style>
+</head>
+</body>
+
 <h1>ประวัติส่วนตัว</h1>
 
 <img src="Pakapong.jpg" width="300" height="300" alt="ภัคพงษ์">
