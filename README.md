@@ -8,6 +8,7 @@ href="https://fonts.googleapis.com/css?family=Prompt|Srisakdi" rel="stylesheet">
 <style>
 body {
 	background-image: url("BG.jpg");
+	background-attachment:fixed;
 font-family: 'Srisakdi', serif;
 font-size: 36px;
 color:Black;
